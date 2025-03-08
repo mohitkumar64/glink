@@ -1,0 +1,4 @@
+service : {
+  storeReview: (text) -> ();
+  storeSessionFeedback: (text) -> ();
+}
